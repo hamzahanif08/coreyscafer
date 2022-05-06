@@ -1,0 +1,1 @@
+web: gunicorn hamza:app
